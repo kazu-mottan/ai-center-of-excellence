@@ -1,0 +1,11 @@
+# Excel/Office 一時ロックファイル
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Excel 生成用作業ディレクトリ (node_modules を含む)
+excel-gen-tmp/
+
+# OS
+.DS_Store
+Thumbs.db
